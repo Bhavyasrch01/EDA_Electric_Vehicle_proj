@@ -61,5 +61,7 @@ Django Framework: Backend framework powering the application.
 Bootstrap: Frontend framework for responsive styling.
 👩‍💻 Author
 Manideep Kotha
+
 Email: bhavya.deekshu@gmail.com
+
 GitHub: Bhavyasrich
